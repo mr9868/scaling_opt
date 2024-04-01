@@ -1,0 +1,29 @@
+{
+  "name": "@mr9868/scaling_opt",
+  "version": "1.0.1",
+  "description": "Node Scalability Monitoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr9868/scaling_opt.git"
+  },
+  "keywords": [
+    "scaling_opt"
+  ],
+  "author": "mr9868",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mr9868/scaling_opt/issues"
+  },
+  "homepage": "https://github.com/mr9868/scaling_opt#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "scaling_opt": "^1.0.0"
+  },
+  "devDependencies": {}
+}
